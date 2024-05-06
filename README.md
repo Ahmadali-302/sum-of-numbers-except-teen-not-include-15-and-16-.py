@@ -1,0 +1,1 @@
+# sum-of-numbers-except-teen-not-include-15-and-16-.py
